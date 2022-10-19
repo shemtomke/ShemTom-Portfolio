@@ -1,12 +1,2 @@
-# Build a Portfolio
-I have build a responsive website that will display images. links and description.
-This is my first portfolio project.
-
-# Files Included
-
-* index.html
-* main.css in css folder
-* Gruntfile.js
-* img folder
-* dist folder
-* package.json
+# My Portfolio
+This website consists of some of the projects i've worked on and my journey as a Unity game developer.
